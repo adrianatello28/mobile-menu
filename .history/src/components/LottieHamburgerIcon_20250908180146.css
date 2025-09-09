@@ -1,0 +1,17 @@
+.lottie-hamburger-icon {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.lottie-inner-container {
+  width: 150%; /* Scale up the inner container */
+  height: 150%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

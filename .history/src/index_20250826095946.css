@@ -1,0 +1,16 @@
+@import './assets/fonts/fonts.css';
+
+body {
+  margin: 0;
+  font-family: 'Proxima Nova', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.menu {
+  background-color: #ffffff;
+  position: relative;
+  width: 360px;
+  height: 800px;
+  overflow: hidden;
+}
